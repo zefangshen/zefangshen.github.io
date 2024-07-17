@@ -1,3 +1,0 @@
-- Cite references in Projects and Posts
-  - `related_publications: true`
-  - `{% cite shen2021automated %}`
