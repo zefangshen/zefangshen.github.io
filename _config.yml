@@ -6,7 +6,7 @@ title: Zefang Shen # the website title (if blank, full name will be used instead
 first_name: Zefang
 middle_name:
 last_name: Shen
-email: zefang.zef.shen@gmail.com
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -47,7 +47,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: false
 search_enabled: false
-socials_in_search: true
+socials_in_search: false
 bib_search: true
 
 # Dimensions
@@ -191,6 +191,9 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
+    output: true
+    permalink: /:collection/:title/
+  talks:
     output: true
     permalink: /:collection/:title/
 
@@ -426,8 +429,9 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
+enable_talk_categories: true # enables categorization of talks into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.

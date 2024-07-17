@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current and past projects.
 nav: true
 nav_order: 3
-display_categories: [Past]
+display_categories: [Featured, Current, Past]
 horizontal: false
 ---
 
