@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Current and past projects.
-nav: true
-nav_order: 3
-display_categories: [Past]
+title: Talks
+permalink: /talks/
+description: Upcoming and past talks.
+nav: false
+nav_order: 4
+display_categories: [Upcoming, Past]
 horizontal: false
 ---
 

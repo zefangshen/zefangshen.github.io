@@ -3,7 +3,7 @@ layout: page
 title: Leg exoskeleton
 description: An wearable robot to support the rehabilitation of lower limbs.
 img: assets/img/projects/project-leg-exo-1.png
-importance: 1
+importance: 5
 category: Past
 related_publications: true
 ---
