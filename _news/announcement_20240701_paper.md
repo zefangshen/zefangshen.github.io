@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New [paper](https://www.sciencedirect.com/science/article/pii/S0012825224001247) in [Earth-Science Reviews](https://www.sciencedirect.com/journal/earth-science-reviews) using Transfer Learning to address the challenging localisation problem in soil spectroscopy modelling is now online.
+<p class="text-justify">New <a href="https://www.sciencedirect.com/science/article/pii/S0012825224001247">paper</a> in <a href="https://www.sciencedirect.com/journal/earth-science-reviews">Earth-Science Reviews</a> using Transfer Learning to address the challenging localisation problem in soil spectroscopy modelling is now online.</p>

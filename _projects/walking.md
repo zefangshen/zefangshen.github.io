@@ -2,7 +2,7 @@
 layout: page
 title: Saving walking metabolic cost
 description: Designed and modelled a walking assistance device to reduce the metabolic cost of human walking.
-img: assets/img/projects/project-walking-0.jpeg
+img: assets/img/projects/walking-0.jpeg
 importance: 7
 category: Past
 related_publications: true
@@ -14,7 +14,7 @@ In this project, we investigate whether the same biomechanism exists in the hip 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/project-walking-1.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/walking-1.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -2,7 +2,7 @@
 layout: page
 title: Automated soil sensing
 description: An automated soil sensing platform to analyze many soil properties.
-img: assets/img/projects/project-soil-sensing-1.jpeg
+img: assets/img/projects/soil-sensing-0.jpeg
 importance: 4
 category: Past
 related_publications: true

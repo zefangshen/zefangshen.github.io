@@ -2,7 +2,7 @@
 layout: page
 title: Finger exoskeleton
 description: An wearable robot to support the rehabilitation of fingers.
-img: assets/img/projects/project-finger-exo-1.png
+img: assets/img/projects/finger-exo-0.png
 importance: 6
 category: Past
 related_publications: true
@@ -15,7 +15,7 @@ The project used the integrated type and dimensional synthesis proposed in {% ci
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/project-finger-exo-1.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/finger-exo-0.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

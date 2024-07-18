@@ -2,7 +2,7 @@
 layout: page
 title: Miniaturised spectrometer supporting mine-site rehabilitation
 description: An automated soil sensing platform to analyze many soil properties.
-img: assets/img/projects/project-mini-spectrometer-0.png
+img: assets/img/projects/mini-spectrometer-0.png
 importance: 3
 category: Past
 related_publications: true
@@ -16,7 +16,7 @@ However, the spectra from the NIR spectrometers produced better estimates of soi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/project-mini-spectrometer-0.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/spectrometer-0.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

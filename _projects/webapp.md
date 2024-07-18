@@ -2,7 +2,8 @@
 layout: page
 title: A global soil organic carbon estimation service
 description: A global service for the estimation of soil organic carbon with spectra.
-img: assets/img/projects/project-spectralyze-1.jpg
+img: assets/img/projects/webapp-0.jpeg
+featured: true
 importance: 1
 category: Past
 related_publications: true

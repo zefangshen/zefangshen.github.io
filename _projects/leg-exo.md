@@ -2,7 +2,8 @@
 layout: page
 title: Leg exoskeleton
 description: An wearable robot to support the rehabilitation of lower limbs.
-img: assets/img/projects/project-leg-exo-1.png
+img: assets/img/projects/leg-exo-0.png
+featured: true
 importance: 5
 category: Past
 related_publications: true
@@ -17,7 +18,7 @@ Using the above approach we developed a leg exoskeleton based on an 8-bar-10-joi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/project-leg-exo-1.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/leg-exo-0.png" title="leg exoskeleton" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
