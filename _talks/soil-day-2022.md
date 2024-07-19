@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Machine learning for spectroscopic modelling
-description: Webinar, FAO of the United Nations, 05/07/2023.
-img: assets/img/talks/fao-ml.jpeg
+title: Machine learning for soil spectroscopic modelling
+description: Word Soil Day, Perth, 05/12/2022.
+img: assets/img/talks/world-soil-day.png
 featured: false
-importance: 2
+importance: 1
 category: Past
 related_publications: true
 ---
 
-Presented machine learning for soil spectroscopic modelling.
+Introduced machine learning for soil spectroscopic modelling and its challenges.

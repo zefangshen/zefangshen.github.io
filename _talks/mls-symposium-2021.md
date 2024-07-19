@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Machine learning for spectroscopic modelling
-description: Webinar, FAO of the United Nations, 05/07/2023.
-img: assets/img/talks/fao-ml.jpeg
+title: Localising soil spectroscopic modelling with a global library
+description: Curtin MLS Symposium, 03/12/2021.
+img: assets/img/talks/mls-symposium-dtl.png
 featured: false
-importance: 2
+importance: 1
 category: Past
 related_publications: true
 ---
 
-AI in soil science.
+Presented a new Deep Transfer Learning approach to improve the accuracy of local spectroscopic models for estimating soil organic carbon with a large global soil spectral library.
+
+The study was later published: {% cite shen2022deep %}

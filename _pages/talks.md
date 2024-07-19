@@ -3,7 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 description: Upcoming and past talks.
-nav: false
+nav: true
 nav_order: 4
 display_categories: [Upcoming, Past]
 horizontal: false
