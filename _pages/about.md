@@ -35,7 +35,7 @@ social: false # includes social icons at the bottom of the page
   </div>
   <div class="col-md-7">
     <h4>Artificial Intelligence for Soil Science</h4>
-    <p>Australian Academy of Science, Canberra, 09/04/2024</p>
+    <p>Australian Academy of Science, Canberra, Australia. 09/04/2024</p>
     <p class="text-justify">I was honored to be invited by the Australian Academy of Science to share my expertise in developing AI for Soil Science at the public speaker series: The Journey of Australian Science. The talk focused on challenges in soil spectroscopic modelling and our solutions. I also shared my thoughts on future directions of AI research and applications in Soil Science.</p>
     <p>Learn more about the event <a href="https://www.science.org.au/news-and-events/events/public-speaker-series/the-journey-of-australian-science/prescott-and-soil-science">here</a>.</p>
   </div>
@@ -44,6 +44,7 @@ social: false # includes social icons at the bottom of the page
 <div class="row py-2">
   <div class="col-md-8">
     <h4>ASME Journal of Mechanical Design 2018 Editors' Choice Paper Award</h4>
+    <p><a href="https://event.asme.org/IDETC-CIE-2019#:~:text=The%20ASME%202019%20International%20Design,in%20Anaheim%2C%20California%2C%20USA.">IDETC/CIE</a>, California, USA. 08/2019</p>
     <p class="text-justify">This <a href="https://asmejmd.org/2019/10/01/announcing-the-journal-of-mechanical-design-2018-editors-choice-paper-award/">award</a> is given to only one paper each year from all articles published in the prestigious Journal of Mechanical Design. The selection of this paper was based on the recommendations of the Associate and Guest Editors and guided by the following criteria (i) fundamental value of the contribution, (ii) expectation of archival value (e.g., expected number of citations), (iii) practical relevance to mechanical design, and (iv) quality of presentation. Please find the awarded paper <a href="https://doi.org/10.1115/1.4040486">here</a>.</p>
   </div>
   <div class="col-md-4">
