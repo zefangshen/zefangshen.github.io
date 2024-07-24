@@ -42,7 +42,7 @@ social: false # includes social icons at the bottom of the page
 </div>
 
 <div class="row py-2">
-  <div class="col-md-7">
+  <div class="col-md-8">
     <h4>ASME Journal of Mechanical Design 2018 Editors' Choice Paper Award</h4>
     <p class="text-justify">This <a href="https://asmejmd.org/2019/10/01/announcing-the-journal-of-mechanical-design-2018-editors-choice-paper-award/">award</a> is given to only one paper each year from all articles published in the prestigious Journal of Mechanical Design. The selection of this paper was based on the recommendations of the Associate and Guest Editors and guided by the following criteria (i) fundamental value of the contribution, (ii) expectation of archival value (e.g., expected number of citations), (iii) practical relevance to mechanical design, and (iv) quality of presentation. Please find the awarded paper <a href="https://doi.org/10.1115/1.4040486">here</a>.</p>
   </div>
